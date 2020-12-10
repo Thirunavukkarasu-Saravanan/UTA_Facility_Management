@@ -1,0 +1,16 @@
+1,murtuzarepairer,,Monday,0,0,No such user found,Unassigned
+2,,Please provide the repairer name to assign the MAR,Thursday,3,5,No such user found,Unassigned
+3,fmsrepairer,,Monday,3,4,Mar has been assigned to the repairer fmsrepairer,Assigned
+4,fmsrepairer,,Monday,4,9,Mar has been assigned to the repairer fmsrepairer,Assigned
+5,fmsrepairer,,Tuesday,4,10,The repairer has exceeded 10 counts per week,Unassigned
+6,fmsrepairer,,Tuesday,4,11,The repairer has exceeded 10 counts per week,Unassigned
+7,murtuzarepairer,,Monday,4,9,No such user found,Unassigned
+8,fmsrepairer,,Monday,5,9,The repairer has exceeded 5 counts per day,Unassigned
+9,fmsrepairer,,Monday,5,10,The repairer has exceeded 10 counts per week,Unassigned
+10,fmsrepairer,,Monday,5,11,The repairer has exceeded 10 counts per week,Unassigned
+11,fmsrepairer,,Monday,2,10,The repairer has exceeded 10 counts per week,Unassigned
+12,fmsrepairer,,Monday,6,9,The repairer has exceeded 5 counts per day,Unassigned
+13,fmsrepairer,,Tuesday,6,10,The repairer has exceeded 10 counts per week,Unassigned
+14,fmsrepairer,,Tuesday,6,11,The repairer has exceeded 10 counts per week,Unassigned
+15,murtuzarepairer,,Monday,6,11,No such user found,Unassigned
+16,murtuzarepairer,,Monday,5,9,No such user found,Unassigned

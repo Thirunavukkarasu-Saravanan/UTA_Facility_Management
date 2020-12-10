@@ -1,0 +1,5 @@
+1,,Facility name cannot be empty
+2,abcdefghi,Facility name should be alphanumeric (EX IVC 52)
+3,1234,Facility name should be alphanumeric (EX IVC 52)
+4,vbbt 6,Facility name should be alphanumeric (EX IVC 52)
+5,BMC 1,Facility name already exists! Try a different name
